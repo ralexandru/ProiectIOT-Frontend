@@ -1,0 +1,26 @@
+/* Style primary buttons */
+.btn-primary {
+    background-color: black;
+    color: yellow;
+    border-color: black;
+  }
+  
+  .btn-primary:hover {
+    background-color: yellow;
+    color: black;
+    border-color: yellow;
+  }
+  
+  /* Style icons */
+  .material-icons {
+    color: black;
+    cursor: pointer;
+  }
+  
+  .material-icons:hover {
+    color: yellow;
+  }
+  
+
+  
+  
